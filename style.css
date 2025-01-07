@@ -8,7 +8,7 @@ padding: 0;
 }
 .section{
     background: linear-gradient(.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%) ,url("./assets/hero-bg.png");
-    width:1350px;
+    width:100%;
     height:768px;
     background-repeat: no-repeat;
     background-position: center;
